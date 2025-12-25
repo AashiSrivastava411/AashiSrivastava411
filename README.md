@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech CSE student at UCER (AKTU-affiliated), Prayagraj  
-- 🌱 Currently learning *C language* | 4🌟star on HackerRank  
+- 🌱 Currently learning *C and C++* | 4🌟star on HackerRank in C  
 - 🧠 Exploring *DSA, **GitHub, and Web Development 
 - 🏆 1st prize in Group Discussion | 2nd prize in Quiz competition  
 - 🚀 Dream: To build real-world impactful tech projects!
