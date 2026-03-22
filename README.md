@@ -3,8 +3,8 @@
   <h1>👋 Hello! I'm Aashi Srivastava</h1>
   <h3>🎓 B.Tech CSE Student | Passionate about Coding & AI</h3>
 
-  <!-- Optional: add a small animated typing effect or waving hand gif if you like -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Learning+DSA+%26+C%2B%2B;Building+impactful+projects;4★+HackerRank+in+C" alt="Typing SVG" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Learning+DSA+%26+C%2B%2B;Building+impactful+projects;Let's+connect" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ### 🌟 About Me
 - 🎓 B.Tech CSE @ UCER (AKTU-affiliated), Prayagraj
-- 🧠 Currently grinding **DSA** and **C++** | 4★ on HackerRank in C
+- 🧠 Currently grinding **DSA** and **C++** | 5★ on HackerRank in C++
 - 🌐 Exploring GitHub + Web Development
 - ⚡ Practicing daily on LeetCode & GeeksforGeeks
 - 🎯 Goal: Build real-world, impactful tech projects!
@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <!-- Add more as you learn: HTML, CSS, JS, Python etc. -->
 </div>
 
 ---
