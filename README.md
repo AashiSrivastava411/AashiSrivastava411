@@ -44,6 +44,12 @@
   <img src="https://komarev.com/ghpvc/?username=AashiSrivastava411&color=6A1B9A&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AashiSrivastava411&theme=react-dark&hide_border=true" alt="Aashi's GitHub contribution activity graph" width="90%" />
+</div>
+
 ---
 
 ### 💻 Coding Practice
@@ -80,4 +86,3 @@
 <div align="center">
   <sub>Thanks for stopping by! Let's code something awesome together 🚀</sub>
 </div>
-
